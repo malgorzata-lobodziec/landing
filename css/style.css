@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;500&family=Lato:wght@100;300;400&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Cormorant', serif;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+a{
+	text-decoration: none;
+}
+
+h3 {
+	margin: auto;
+}

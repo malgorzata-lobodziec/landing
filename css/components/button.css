@@ -1,0 +1,28 @@
+.btn-red {
+	background-color: #bb1f2c;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 400;
+	font-family: 'Lato', sans-serif;
+}
+
+.btn-red2 {
+	background-color: #bb1f2c;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 400;
+	font-family: 'Lato', sans-serif;
+	margin-left: 20px;
+}
+
+.btn-red3 {
+	background-color: #bb1f2c;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 400;
+	font-family: 'Lato', sans-serif;
+	margin: auto;
+}
